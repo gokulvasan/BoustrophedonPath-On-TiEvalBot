@@ -1,0 +1,47 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[LMIFTDIDriver]
+LMI_ResetMode=0x00000000
+[LMIFTDI]
+LMIFTDIserialNo=0C1125D0A
+LMIFTDIfoundProbes=
+[DebugChecksum]
+Checksum=1251887448
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[RecentFlashDownload]
+Path=E:\MASTERS\foundationsOfCyberPhysicalSystems\Micrium\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-Ex3\Flash\Exe\uCOS-III-Ex3.out
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Aliases]
+A0=_ "E:\MASTERS\foundationsOfCyberPhysicalSystems\Micrium\Software\CPU\LuminaryMicro\DriverLib\driverlib\i2s.c" ""
+Count=1
+SuppressDialog=1
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
